@@ -1,1 +1,1 @@
-# BankingSystem
+This project is a Banking System Web Service built using Spring Boot to streamline account and user management. It allows users to securely add, modify, or delete their details while facilitating core banking operations such as deposits and withdrawals. The backend employs RESTful APIs for seamless communication, ensuring a robust and scalable architecture. Emphasis is placed on security, performance, and maintainability to meet industry standards. This system serves as a foundational platform for modern banking applications.
